@@ -12,41 +12,41 @@ Qualquer dúvida ou sugestão entre em contato através do canal de texto [🆘�
 
 > **1.**  Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
 
-[RESOLUÇÃO](questao1.py)
+[RESOLUÇÃO](questao01.py)
 
 > **2.** Faça um Programa que peça um número e então mostre a mensagem _O número informado foi \[número\]_.
 
-[RESOLUÇÃO](questao2.py)
+[RESOLUÇÃO](questao02.py)
 
 > **3.** Faça um Programa que peça dois números e imprima a soma.
 
-[RESOLUÇÃO](questao3.py)
+[RESOLUÇÃO](questao03.py)
 
 > **4.** Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
-[RESOLUÇÃO](questao4.py)
+[RESOLUÇÃO](questao04.py)
 
 > **5.** Faça um Programa que converta metros para centímetros.
 
-[RESOLUÇÃO](questao5.py)
+[RESOLUÇÃO](questao05.py)
 
 > **6.** Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
-[RESOLUÇÃO](questao6.py)
+[RESOLUÇÃO](questao06.py)
 
 > **7.** Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 
-[RESOLUÇÃO](questao7.py)
+[RESOLUÇÃO](questao07.py)
 
 > **8.** Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 
-[RESOLUÇÃO](questao8.py)
+[RESOLUÇÃO](questao08.py)
 
 > **9.** Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
 >
 > `C = 5 * ((F-32) / 9)`
 
-[RESOLUÇÃO](questao9.py)
+[RESOLUÇÃO](questao09.py)
 
 > **10.** Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
 
