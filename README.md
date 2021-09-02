@@ -6,5 +6,5 @@ Qualquer dúvida ou sugestão entre em contato através do canal de texto [🆘�
 
 
 
-> **1.**  Estrutura Sequencial: 18 exercícios [VER](1. ESTRUTURA SEQUENCIAL)
+> **1.**  Estrutura Sequencial: 18 exercícios [VER](1.%20ESTRUTURA%20SEQUENCIAL)
 
